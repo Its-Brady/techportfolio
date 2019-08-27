@@ -1,0 +1,36 @@
+html {
+
+
+
+
+
+
+
+
+    background-color: #B80C09;
+
+    color: black;
+    font-family: 'Indie Flower', cursive;
+    font-size: 2em;
+
+    margin: 0 auto;
+    text-align: center;
+
+    background-image: url(Images/Pro%20Backflip.mp4).png;
+    background-color: cover;
+
+
+
+}
+
+
+img {
+
+    width: 85%;
+}
+
+video {
+
+    width: 85%;
+    height: 17%;
+}
